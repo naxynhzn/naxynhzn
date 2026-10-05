@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="./naxynhzn-hacker.gif" width="100%" alt="Naxynhzn Hacker Profile">
-</p>
+
 
 <p align="center">
 
@@ -13,8 +13,6 @@
 ██║ ╚████║██║  ██║██╔╝ ██╗   ██║   ██║ ╚████║██║  ██║███████╗██║ ╚████║
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
 
-<p align="center">
-  <img src="readmefile/dark.svg" width="100%" alt="Naufal Hafidz N Banner">
-</p>
 
+</p>
 <br/>
