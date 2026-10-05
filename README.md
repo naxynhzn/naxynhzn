@@ -9,12 +9,11 @@
 ██║╚██╗██║██╔══██║ ██╔██╗   ╚██╔╝  ██║╚██╗██║██╔══╝  ██║╚██╗██║
 ██║ ╚████║██║  ██║██╔╝ ██╗   ██║   ██║ ╚████║███████╗██║ ╚████║
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝
+ > SYSTEM ONLINE_
+ > ACCESS GRANTED_
+ > WELCOME, NAUFAL_
 
-              > SYSTEM ONLINE_
-              > ACCESS GRANTED_
-              > WELCOME, NAUFAL_
-
-       [ INFORMATICS STUDENT ] [ DEVELOPER ]
+           [ INFORMATICS STUDENT ] [ DEVELOPER ]
 
 ████████████████████████████████████████████████████████████████
 </div>
