@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <img alt="Naufal Hafidz N Banner" src="./dark.svg" width="100%">
-</picture>
-
 <p align="center">
 
 ```text
@@ -12,3 +7,9 @@
 ██║╚██╗██║██╔══██║ ██╔██╗   ╚██╔╝  ██║╚██╗██║██╔══██║ ███╔╝  ██║╚██╗██║
 ██║ ╚████║██║  ██║██╔╝ ██╗   ██║   ██║ ╚████║██║  ██║███████╗██║ ╚████║
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img alt="Naufal Hafidz N Banner" src="./dark.svg" width="100%">
+</picture>
