@@ -13,9 +13,8 @@
 ██║ ╚████║██║  ██║██╔╝ ██╗   ██║   ██║ ╚████║██║  ██║███████╗██║ ╚████║
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./readmefile/dark.svg">
-  <img alt="Naufal Hafidz N Banner" src="./readmefile/dark.svg" width="100%">
-</picture>
+<p align="center">
+  <img src="readmefile/dark.svg" width="100%" alt="Naufal Hafidz N Banner">
+</p>
 
 <br/>
