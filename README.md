@@ -1,6 +1,6 @@
 <div align="center">
 
-```text
+<pre>
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║  ███╗   ██╗ █████╗ ██╗  ██╗██╗   ██╗███╗   ██╗███████╗███╗   ██╗║
@@ -12,12 +12,18 @@
 ║                                                                  ║
 ║                    S Y S T E M   O N L I N E                     ║
 ║                                                                  ║
-║             [ ACCESS GRANTED ]  [ USER: NAXYNHZN ]              ║
+║             [ ACCESS GRANTED ] [ USER: NAXYNHZN ]               ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
+</pre>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Initializing+system...;%3E+Loading+NAXYNHZN...;%3E+Access+granted.;%3E+Welcome+to+my+GitHub_;%3E+Informatics+Student+%7C+Developer" />
 
 </div>
+
+---
+
+<pre>
 ┌──[naxynhzn@github]─[~]
 └─$ whoami
 
@@ -27,59 +33,75 @@ Naufal Hafidz
 > Web Developer in Progress
 > UI / UX Explorer
 > Programmer
-> Digital Creator┌──[naxynhzn@github]─[~]
+</pre>
+
+### `> about_me`
+
+<pre>
+┌──[naxynhzn@github]─[~]
 └─$ cat about_me.txt
 
-╭──────────────────────────────────────────────╮
-│                                              │
-│  🎓  Informatics Student                    │
-│  🌐  Web Development                        │
-│  🐍  Python                                  │
-│  ⚙️  C++                                     │
-│  🎨  UI / UX Design                          │
-│  🚀  Building & Learning                     │
-│                                              │
-╰──────────────────────────────────────────────╯
-> skills --list
+[+] Informatics Student
+[+] Web Development
+[+] Python / C++
+[+] UI / UX Design
+[+] Building Personal Projects
+[+] Always Learning
+
+STATUS : ONLINE
+MODE   : LEARNING
+</pre>
+
+### `> skills`
+
+<pre>
 ┌──[naxynhzn@github]─[~/skills]
 └─$ scan
 
-HTML         ████████████████████░░░░   80%
-CSS          █████████████████░░░░░░   70%
-JavaScript   ██████████████░░░░░░░░░   60%
-Python       █████████████░░░░░░░░░░   55%
-C++          ███████████░░░░░░░░░░░   50%
-UI / UX      ███████████████░░░░░░░   65%<div align="center">
+HTML         ████████████████████░░░░  80%
+CSS          █████████████████░░░░░░  70%
+JavaScript   ██████████████░░░░░░░░░  60%
+Python       █████████████░░░░░░░░░░  55%
+C++          ███████████░░░░░░░░░░░  50%
+UI / UX      ███████████████░░░░░░░  65%
+</pre>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode,figma&theme=dark" />
-
-</div>
-> projects --current┌──[naxynhzn@github]─[~/projects]
-└─$ ls -la
-
-drwxr-xr-x  web-development
-drwxr-xr-x  python-projects
-drwxr-xr-x  cpp-projects
-drwxr-xr-x  ui-ux-design
-drwxr-xr-x  personal-projects
-
-┌──────────────────────────────────────────────┐
-│ STATUS                                       │
-│                                              │
-│ Web Development     [████████████░░] ACTIVE  │
-│ Python              [██████████░░░░] LEARN   │
-│ C++                 [████████░░░░░░] LEARN   │
-│ UI / UX              [███████████░░░] ACTIVE │
-└──────────────────────────────────────────────┘
-> github --status
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naxynhzn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=9aff9a" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naxynhzn&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=9aff9a" height="180"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode,figma&theme=dark">
 
 </div>
-> system --check
+
+---
+
+### `> projects`
+
+<pre>
+┌──[naxynhzn@github]─[~/projects]
+└─$ ls
+
+01  web-development
+02  python-projects
+03  cpp-projects
+04  ui-ux-design
+05  personal-projects
+
+> PROJECT DIRECTORY LOADED
+</pre>
+
+### `> github --status`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naxynhzn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=9aff9a">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naxynhzn&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=9aff9a">
+
+</div>
+
+---
+
+<pre>
 ┌──────────────────────────────────────────────────┐
 │                  SYSTEM CHECK                    │
 ├──────────────────────────────────────────────────┤
@@ -92,18 +114,11 @@ drwxr-xr-x  personal-projects
 │  STATUS        : ████████████████████ 100%       │
 │                                                  │
 └──────────────────────────────────────────────────┘
-> goals.txt┌──[naxynhzn@github]─[~]
-└─$ cat goals.txt
-
-[01] Improve programming fundamentals
-[02] Build useful web applications
-[03] Learn new technologies
-[04] Create better UI / UX
-[05] Turn ideas into real projects
-
-> PROCESS: RUNNING...
+</pre>
 
 <div align="center">
+
+<pre>
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║              > CONNECTION ESTABLISHED                    ║
@@ -119,7 +134,8 @@ drwxr-xr-x  personal-projects
 ║              [ TERMINAL SESSION ACTIVE ]                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050805,50:0d2b16,100:145a32&height=100&section=footer" width="100%"/>
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050805,50:0d2b16,100:145a32&height=100&section=footer">
 
 </div>
-```
