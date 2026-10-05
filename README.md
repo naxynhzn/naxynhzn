@@ -1,10 +1,18 @@
-<div align="center">
+<p align="center">
+  <img
+    src="./naxynhzn-hacker.gif"
+    width="100%"
+    alt="Naxynhzn Hacker Profile"
+  >
+</p>
 
-<img src="./naxynhzn-hacker.gif" width="100%" alt="Naxynhzn hacker profile">
+<h1 align="center">NAXYNHZN</h1>
 
-# `NAXYNHZN`
+<p align="center">
+  <code>INFORMATICS STUDENT // WEB // CODE</code>
+</p>
 
-### `INFORMATICS STUDENT // WEB // CODE`
+<br>
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
@@ -15,9 +23,6 @@
 │  FOCUS     : WEB DEVELOPMENT                             │
 │  SYSTEM    : ONLINE                                      │
 └──────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
