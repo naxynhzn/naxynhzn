@@ -13,10 +13,6 @@
 ██║ ╚████║██║  ██║██╔╝ ██╗   ██║   ██║ ╚████║██║  ██║███████╗██║ ╚████║
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
 
-@@ -1,30 +1,38 @@
-# Hi there, I'm Mahyudeen Shahid! 👋
-
-<!-- Theme-Sensitive Header Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
